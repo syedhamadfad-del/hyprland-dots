@@ -1,0 +1,22 @@
+# Rofi Configuration
+
+configuration {
+    font: "JetBrainsMono Nerd Font Medium 10";
+    padding: 10px;
+    border: {  
+        width: 2px;
+        radius: 5px;
+        color: "#000000";
+    }  
+}
+
+menu {
+    background: "#282828";
+    foreground: "#ffffff";
+}
+
+entry {
+    padding: 5px;
+    background: "#3c3836";
+    foreground: "#ebdbb2";
+}
